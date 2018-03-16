@@ -1,0 +1,9 @@
+It’s a simple musical desktop application to compose music.
+ Where there is a guitar, drums, 
+ keyboard, musicpad and a karaoke platform. 
+User can play a song through this application and at the same time can compose with guitar or keyboard or drums . 
+Some sample chords are provided to help the user to compose. 
+You can also sing a song in Karaoke Mode but to do that you have to choose a sound(karaoke video)
+from your computer.
+You can modify this desktop application if you want to.You can add the recording option.
+ 
